@@ -11,3 +11,4 @@ def Visuel (Board):
            "\n")
 Visuel(Board)
 
+Ecris à coté : 
