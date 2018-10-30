@@ -10,4 +10,4 @@ def Visuel (Board):
            Board[6], "-|-", Board[7], "-|-", Board[8],
            "\n")
 Visuel(Board)
-
+gfh
