@@ -3,3 +3,11 @@
 Board = [0, 1, 2,
          3, 4, 5,
          6, 7, 8]
+def Visuel (Board):
+    print ("\n",
+           Board[0], "-|-", Board[1], "-|-", Board[2], "\n",
+           Board[3], "-|-", Board[4], "-|-", Board[5], "\n",
+           Board[6], "-|-", Board[7], "-|-", Board[8],
+           "\n")
+Visuel(Board)
+
